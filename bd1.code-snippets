@@ -1,0 +1,8 @@
+{
+  "border: 1px dotted deeppink": {
+    "scope": "css,scss,sass",
+    "prefix": "bd1",
+    "body": ["border: 1px dotted deeppink;"],
+    "description": "CSS helper border"
+  }
+}

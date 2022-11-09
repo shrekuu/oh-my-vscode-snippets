@@ -1,0 +1,8 @@
+{
+  "stw": {
+    "scope": "javascript,typescript,jsx,tsx,javascriptreact,typescriptreact",
+    "prefix": "stw",
+    "body": ["style={tw`$1`}"],
+    "description": "TailwindCSS for React Native by twrnc"
+  }
+}
