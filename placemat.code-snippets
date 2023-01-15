@@ -1,8 +1,0 @@
-{
-  "Pretty nice placeholders from placem.at": {
-    // "scope": "javascript,typescript",
-    "prefix": "placemat",
-    "body": ["https://placem.at/things?w=250&random=1"],
-    "description": "placehold"
-  }
-}
